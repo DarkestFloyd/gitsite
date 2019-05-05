@@ -17,11 +17,11 @@ pygmentscodefencesguesssyntax = true
 
 [params]
     author = "Nischal Mahaveer Chand"
-    description = "John Doe's personal website"
+    description = "my site"
     keywords = "blog,developer,personal"
-    info = "Data Scientist"
+    info = "Ms Data Science"
     avatarurl = "images/me.png"
-    footercontent = "btw i use arch."
+    footercontent = "Dreamer and aspiring data scientist. btw I use arch."
 
     dateformat = "January 2, 2006"
 
@@ -53,20 +53,20 @@ pygmentscodefencesguesssyntax = true
     weight = 1
     url = "http://github.com/darkestfloyd/"
 [[params.social]]
-    name = "Twitter"
-    icon = "fab fa-twitter"
-    weight = 3
-    url = "https://twitter.com/DarkestFloyd"
+    name = "Medium"
+    icon = "fab fa-medium"
+    weight = 5
+    url = "https://medium.com/@darkestfloyd"
 [[params.social]]
     name = "LinkedIn"
     icon = "fab fa-linkedin"
     weight = 4
     url = "https://www.linkedin.com/in/nischalmc/"
 [[params.social]]
-    name = "Medium"
-    icon = "fab fa-medium"
-    weight = 5
-    url = "https://medium.com/@darkestfloyd"
+    name = "Twitter"
+    icon = "fab fa-twitter"
+    weight = 3
+    url = "https://twitter.com/DarkestFloyd"
 
 
 [languages]
@@ -90,5 +90,5 @@ pygmentscodefencesguesssyntax = true
 
         [[languages.en.menu.main]]
         name = "Contact me"
-        weight = 5
+        weight = 4
         url = "/contact/"
