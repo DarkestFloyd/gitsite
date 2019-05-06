@@ -1,12 +1,18 @@
 +++
-title = "About Me"
+title = "About Me (WIP..)"
 slug = "about"
 +++
 
-Hi, I am Nischal. I am currently a student at Northeastern University pursuing my Master's in 
-Data Science. 
+<div>
+<div style="width:30%;float:left;">
+<img align="left" src="/images/me.png">
+</div>
+<div style="width:70%; float:left;">
+<p style="margin-left:10px;">
+Hello;
+</p>
+</div>
 
-I love geeking out on software and programming and always try to keep myself busy coding.
+</div>
 
-You can follow me on Twitter for more, @darkestfloyd or connect with me on LinkedIn, nischalmc 
 
