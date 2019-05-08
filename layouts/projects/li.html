@@ -1,4 +1,21 @@
 <li>
-  <span class="date">{{ .Date.Format (default "January 2006" ) }}</span>
-  <a class="title" href="{{ .Params.ExternalLink | default .RelPermalink }}">{{ .Title }}</a>
+  <div>
+    <div style="width:30%;float:left;">
+      <span class="date">{{ .Date.Format (default "January 2006" ) }}</span>
+    </div>
+    <div style="width:70%;">
+      <a class="title" href="{{ .Params.ExternalLink | default .RelPermalink }}">{{ .Title }}</a>
+    </div>
+  </div>
+
+  <div>
+    <div style="width:30%;float:left;">
+      <span class="date"></span>
+    </div>
+    <div style="width:70%;">
+      <span class="desctiption">{{ .Description }}</span>
+    </div>
+  </div>
 </li>
+
+<br />
