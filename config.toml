@@ -54,24 +54,24 @@ googleAnalytics = "UA-139690492-1"
     weight = 2
     url = "http://github.com/darkestfloyd/"
 [[params.social]]
-    name = "Medium"
-    icon = "fab fa-medium"
-    weight = 3
-    url = "https://medium.com/@darkestfloyd"
-[[params.social]]
     name = "LinkedIn"
     icon = "fab fa-linkedin"
     weight = 1
     url = "https://www.linkedin.com/in/nischalmc/"
 [[params.social]]
-    name = "Twitter"
-    icon = "fab fa-twitter"
-    weight = 5
-    url = "https://twitter.com/DarkestFloyd"
+    name = "Medium"
+    icon = "fab fa-medium"
+    weight = 3
+    url = "https://medium.com/@darkestfloyd"
 [[params.social]]
     name = "StackOverflow"
     icon = "fab fa-stack-overflow"
     weight = 4
+    url = "https://twitter.com/DarkestFloyd"
+[[params.social]]
+    name = "Twitter"
+    icon = "fab fa-twitter"
+    weight = 5
     url = "https://twitter.com/DarkestFloyd"
 
 
