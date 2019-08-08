@@ -102,4 +102,4 @@ googleAnalytics = "UA-139690492-1"
         [[languages.en.menu.main]]
         name = "Resume"
         weight = 4
-        url = "files/resume.pdf"
+        url = "https://github.com/DarkestFloyd/resume/blob/master/resume.pdf"
