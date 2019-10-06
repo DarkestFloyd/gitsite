@@ -1,5 +1,5 @@
-baseurl = "https://darkestfloyd.github.io"
-title = "darkestfloyd"
+baseurl = "https://nischalchand.github.io"
+title = "nischalchand"
 
 theme = "hugo-coder"
 
@@ -52,7 +52,7 @@ googleAnalytics = "UA-139690492-1"
     name = "Github"
     icon = "fab fa-github"
     weight = 2
-    url = "http://github.com/darkestfloyd/"
+    url = "http://github.com/nischalchand/"
 [[params.social]]
     name = "LinkedIn"
     icon = "fab fa-linkedin"
@@ -102,4 +102,4 @@ googleAnalytics = "UA-139690492-1"
         [[languages.en.menu.main]]
         name = "Resume"
         weight = 4
-        url = "https://github.com/DarkestFloyd/resume/blob/master/resume.pdf"
+        url = "https://github.com/nischalchand/resume/blob/master/resume.pdf"
